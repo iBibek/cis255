@@ -26,7 +26,7 @@ const server = http.createServer((req, res) => {
         );
     }
     
-    else if (req.url === '/api' && req.method === 'POST') {
+    else if (req.url === 'https://cis255.vercel.app/api' && req.method === 'POST') {
         let body = '';
         
         // Collect data chunks
