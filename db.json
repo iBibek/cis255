@@ -1,0 +1,94 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "On the Electrodynamics of Moving Bodies",
+      "year": 1905,
+      "published": true
+    },
+    {
+      "id": 2,
+      "title": "Does the Inertia of a Body Depend Upon Its Energy Content?",
+      "year": 1905,
+      "published": true
+    },
+    {
+      "id": 3,
+      "title": "The Photoelectric Effect and Light Quanta",
+      "year": 1905,
+      "published": true
+    },
+    {
+      "id": 4,
+      "title": "Relativity: The Special and General Theory",
+      "year": 1916,
+      "published": true
+    },
+    {
+      "id": 5,
+      "title": "Quantum Theory and the Foundations of Physics",
+      "year": 1917,
+      "published": true
+    },
+    {
+      "id": 6,
+      "title": "The Meaning of Relativity",
+      "year": 1922,
+      "published": true
+    },
+    {
+      "id": 7,
+      "title": "Unified Field Theory: Preliminary Notes",
+      "year": 1925,
+      "published": true
+    },
+    {
+      "id": 8,
+      "title": "Geometry and Experience",
+      "year": 1921,
+      "published": true
+    },
+    {
+      "id": 9,
+      "title": "Philosophical Perspectives on Physics",
+      "year": 1928,
+      "published": false
+    },
+    {
+      "id": 10,
+      "title": "Relativity and the Universe",
+      "year": 1930,
+      "published": false
+    },
+    {
+      "id": 11,
+      "title": "Foundations of Field Theory",
+      "year": 1935,
+      "published": true
+    },
+    {
+      "id": 12,
+      "title": "On the Problem of Space, Time, and Reality",
+      "year": 1938,
+      "published": false
+    },
+    {
+      "id": 13,
+      "title": "The Evolution of Physical Thought",
+      "year": 1942,
+      "published": true
+    },
+    {
+      "id": 14,
+      "title": "Essays on Science and Human Understanding",
+      "year": 1947,
+      "published": true
+    },
+    {
+      "id": 15,
+      "title": "On the Quest for a Unified Theory",
+      "year": 1954,
+      "published": false
+    }
+  ]
+}
